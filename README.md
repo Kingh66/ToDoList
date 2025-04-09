@@ -1,7 +1,5 @@
 # 🌟 Premium Todo List Application
 
-![App Screenshot](https://i.imgur.com/JqYXOzL.png)  
-*Replace this with an actual screenshot of your app.*
 
 A modern, feature-packed Todo List application built with clean UI, smart filtering, and both API and offline support.
 
@@ -33,7 +31,7 @@ A modern, feature-packed Todo List application built with clean UI, smart filter
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/Kingh66/TodoList.git
 ```
 
 ### 2. Run the app  
@@ -58,7 +56,7 @@ This app uses [JSONPlaceholder](https://jsonplaceholder.typicode.com/) to simula
 ## 📁 Project Structure
 
 ```
-todo-list-app/
+ToDoList/
 ├── index.html         # Main app file
 ├── styles.css         # External CSS (optional)
 ├── script.js          # External JS logic
@@ -113,5 +111,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Sizwe Mthembu 
 🔗 [Live Demo](#) • 🐞 [Report Bug](#)

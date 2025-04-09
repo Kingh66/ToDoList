@@ -112,4 +112,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ---
 
 Made with ❤️ by Sizwe Mthembu 
-🔗 [Live Demo](#) • 🐞 [Report Bug](#)
+🔗 [Live Demo](#) • 🐞 [Report Bug](https://portfolio-vo6v.onrender.com/)
